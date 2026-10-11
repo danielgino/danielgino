@@ -9,9 +9,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://danielgino.com)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://danielgino.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gino-2b6350345)
 
 </div>
 
